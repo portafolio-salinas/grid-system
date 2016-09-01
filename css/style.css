@@ -1,0 +1,39 @@
+.uno {
+	background: #252424;
+	text-align: right;
+}
+.logo {
+	border:none;
+}
+img {
+	max-width: 100%;
+	border: 3px solid white;
+}
+.mono {
+	background: #B6B3B3;
+}
+.menu {
+	position: relative;
+	top:50px;
+	text-decoration: none;
+	color: white;
+	margin-left: 20px;
+	font-family: Arial; 
+	font-size:15px;
+	width: 100%;
+}
+h1 {
+	display: inline;
+}
+a {
+	text-decoration:none;
+	font-family: Arial; 
+}
+.mona{
+	padding-top: 50px;
+}
+.monky {
+	font-size: 15px;
+	display: inline;
+	text-align: left;
+}/* Inserta tu código aqui */
